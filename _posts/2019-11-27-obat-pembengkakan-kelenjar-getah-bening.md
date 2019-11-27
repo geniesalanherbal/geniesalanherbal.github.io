@@ -86,9 +86,10 @@ Anda cukup mengirimkan SMS/WA Ke No. 082.320.000.747 dengan mencantumkan kode pr
 
 Atau Anda bisa pijit tombol di bawah Ini untuk memudahkan proses pemesanan:
 
-<a href="" style="background-color: #61ce70; border: 4px solid #61ce70; border-radius: 3px; color: white; margin-bottom: 19px; padding: 10px;">PESAN SEKARANG via WA</a>
+[Pesan Sekarang via WA](https://api.whatsapp.com/send?phone=6282320000747&text=Saya%20pesan%20obat%20herbal%20Zedoril%20dengan%20format%20pesanan%3A%0A-%20Kode%20produk%3A%20AWF%0A-%20Jumlah%20pesanan%3A%20%0A-%20Nama%20lengkap%3A%0A-%20Alamat%3A%0A-%20No.%20Hp%2FTelepon%3A)
+{: style="background-color: #61ce70; border: 4px solid #61ce70; border-radius: 3px; color: white; margin-bottom: 19px; padding: 10px; text-align: center;"}
 
-<a href="" style="background-color: #ffa500; border: 4px solid #ffa500; border-radius: 3px; color: white; margin-bottom: 19px; padding: 10px;">PESAN SEKARANG via SMS</a>
+<a href="sms:+6282320000747?body=Saya%20pesan%20obat%20herbal%20Lycozein%20dengan%20format%20pesanan%3A%0A-%20Kode%20produk%3A%20AWF%0A-%20Jumlah%20pesanan%3A%20%0A-%20Nama%20lengkap%3A%0A-%20Alamat%3A%0A-%20No.%20Hp%2FTelepon%3A" style="background-color: #ffa500; border: 4px solid #ffa500; border-radius: 3px; color: white; margin-bottom: 19px; padding: 10px; text-align: center;">Pesan Sekarang via SMS</a>
 
 ### Detail produk Zedoril 7
 
