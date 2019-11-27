@@ -77,12 +77,12 @@ Lihat caranya di bawah ini.
 
 Anda cukup mengirimkan SMS/WA Ke No. 082.320.000.747 dengan mencantumkan kode produk GIH seperti contoh dibawah ini:
 
-Kode Produk: **GIH**
-Jumlah Pemesanan: **4 Botol**
-Nama: **Aan Suryadi**
-Alamat: **Kp. Indah Cemara RT/03 RW/08 Kel. Setiakasih, Kec. Cibeureum, Kota Tasikmalaya, Jawa Barat**
-No. Telp/Hp: **081214937xxx**
-Kirim Ke: **082.320.000.747**
++ Kode Produk: **GIH**
++ Jumlah Pemesanan: **4 Botol**
++ Nama: **Aan Suryadi**
++ Alamat: **Kp. Indah Cemara RT/03 RW/08 Kel. Setiakasih, Kec. Cibeureum, Kota Tasikmalaya, Jawa Barat**
++ No. Telp/Hp: **081214937xxx**
++ Kirim Ke: **082.320.000.747**
 
 Atau Anda bisa pijit tombol di bawah Ini untuk memudahkan proses pemesanan:
 
@@ -127,13 +127,12 @@ Sehari 3 kali 4 kapsul
 
 ![Testimoni Zedoril 7 menyembuhkan pembengkakan kelenjar getah bening](/images/uum.jpg)
 
-Nama: **Uum**
-Usia: **31 Tahun**
-Alamat: **Kp .Gedong .Rt 012/Rw.004 Ds.Pagintungan Kc.Jawilan Banten**
-Keluhan: **Kelenjar Di Leher**
-Pengobatan Herbal: **Walatra Zedoril -7**
++ Nama: **Uum**
++ Usia: **31 Tahun**
++ Alamat: **Kp .Gedong .Rt 012/Rw.004 Ds.Pagintungan Kc.Jawilan Banten**
++ Keluhan: **Kelenjar Di Leher**
++ Pengobatan Herbal: **Walatra Zedoril -7**
 
 Assalamualaikum,Wr.Wb 2015 Saya pernah oprasi kelenjar tiroid dan 2018 kelenjar di leher saya tumbuh lagi, rasanya sakit baget kalau harus ngalami oprasi lagi, sebelum konsumsi zedoril -7 saya pernah mencoba beberapa obat tapi belum ada perubahan dan saya tidak putus asa berdoa dan berusaha lagi mencari di internet. Ada obat herbal Walatra Zedoril 7 saya langsug memesanya 1 botol. Alhamdulilah meskipun belum ha bis 1 botol sekarang kelenjar di leher saya sudah kempes dan mengecil.
 
 Semoga allah selalu memberikan saya kesembuhan amiin. Terimakasih kepada produk walatra zedoril 7 Semoga tambah maju dan sukses banyak diminati org banyak amiin.,saya bnyak berterimksh berkat produk zedoril 7.
-
