@@ -20,6 +20,8 @@ Anda tidak ingin mengonsumsi obat antibiotik berbahan non-herbal?
 
 Nah, di situs ini ada alternatif lainnya yaitu, Anda bisa mengonsumsi produk obat herbal kami, namanya **Zedoril 7**.
 
+Sudah terdaftar di BPOM RI dan juga badan Halal MUI.
+
 Produk herbal ini terbuat dari 100% bahan alami, yaitu *daun sirsak (annona mucirata)*, *kulit buah manggis (garcinia mangostana)* dan *sirih merah (piper ornatum)*.
 
 Ketiga bahan alami tersebut mengandung zat dan senyawa aktif yang mampu mengatasi infeksi dan peradangan yang terjadi di kelenjar getah bening.
@@ -36,7 +38,7 @@ Khasiat dan kandungan dalam tiga bahan alami tersebut sudah teruji dalam penelit
 
 ## Segera Obati Pembengkakan Kelenjar Getah Bening Anda Dengan Zeodril 7
 
-![Obat Pembengkakan Kelenjar Getah Bening Zeodril](/images/)
+![Obat Pembengkakan Kelenjar Getah Bening Zeodril](/images/zedoril3.jpg)
 
 Gejala-gejala pembengkakan kelenjar getah bening mampu secara efektif dihilangkan. Gejalanya seperti:
 
@@ -60,7 +62,7 @@ Adapun khasiat lainnya selain mengatasi pembengkakan di kelenjar getah bening, a
 
 ### Berapa Harga Perbotolnya?
 
-> Harga 1 Botol Lycozein Softgel Hanya Rp450.000,-
+> Harga 1 Botol Zedoril 7 Hanya Rp400.000,-
 >
 > 1 Botol Berisi 100 Kapsul
 
@@ -75,15 +77,63 @@ Lihat caranya di bawah ini.
 
 Anda cukup mengirimkan SMS/WA Ke No. 082.320.000.747 dengan mencantumkan kode produk GIH seperti contoh dibawah ini:
 
-...Kode Produk: GIH
-...Jumlah Pemesanan: 4 Botol
-...Nama: Aan Suryadi
-...Alamat: Kp. Indah Cemara RT/03 RW/08 Kel. Setiakasih, Kec. Cibeureum, Kota Tasikmalaya, Jawa Barat
-...No. Telp/Hp: 081214937xxx
-...Kirim Ke: 082.320.000.747
+Kode Produk: **GIH**
+Jumlah Pemesanan: **4 Botol**
+Nama: **Aan Suryadi**
+Alamat: **Kp. Indah Cemara RT/03 RW/08 Kel. Setiakasih, Kec. Cibeureum, Kota Tasikmalaya, Jawa Barat**
+No. Telp/Hp: **081214937xxx**
+Kirim Ke: **082.320.000.747**
 
 Atau Anda bisa pijit tombol di bawah Ini untuk memudahkan proses pemesanan:
 
 <a href="" style="background-color: #61ce70; border: 4px solid #61ce70; border-radius: 3px; color: white; margin-bottom: 19px; padding: 10px;">PESAN SEKARANG via WA</a>
 
 <a href="" style="background-color: #ffa500; border: 4px solid #ffa500; border-radius: 3px; color: white; margin-bottom: 19px; padding: 10px;">PESAN SEKARANG via SMS</a>
+
+### Detail produk Zedoril 7
+
+Terbuat dari:
+
++ DAUN SIRSAK (ANNONA MUCIRATA)
++ KULIT BUAH MANGGIS (GARCINIA MANGOSTANA)
++ SIRIH MERAH (PIPER ORNATUM)
+
+1 kapsul Zedoril 7 mengandung:
+
++ 40% Daun sirsak (annona mucirata)
++ 40% Kulit buah manggis (garcinia mangostana)
++ 20% Sirih merah (piper ornatum)
+
+Produk herbal sebagai obat untuk mengobati pembengkakan kelenjar gerah bening ini merupakan hasil dari proses ekstraksi berteknologi nano.
+
+Teknologi nano ini akan membuat bahan alami dikonversi menjadi serbuk berukuran sangat kecil (nano), sehingga nutrisi dalam Zedoril 7 bisa dengan mudah diserap tubuh.
+
+Obat Zedoril 7 ini diproduksi oleh **CV. Sami Mandjoer**, yang beralamatkan di ***Kab. Kulon Progo, DI Yogyakarta***.
+
+Softgel Zedoril 7 sendiri sudah lulus uji di BPOM RI dengan no register 173304521, dan juga lulus uji di Badan Sertifikasi Halal MUI.
+
+Di bawah ini adalah gambar dari legalitas Zedoril 7, bahwa sudah terdaftar di BPOM RI.
+
+Berikut tangkap layar dari website [https://cekbpom.pom.go.id/](https://cekbpom.pom.go.id/).
+
+![Legalitas zedoril 7](/images/legalitas.jpg)
+
+Bahan-bahan yang pakai pun 100% alami, tanpa campuran bahan kimia apapun.
+
+Aturan konsumsi:
+Sehari 3 kali 4 kapsul
+
+### Testimoni Zedoril 7 menyembuhkan pembengkakan kelenjar getah bening
+
+![Testimoni Zedoril 7 menyembuhkan pembengkakan kelenjar getah bening](/images/uum.jpg)
+
+Nama: **Uum**
+Usia: **31 Tahun**
+Alamat: **Kp .Gedong .Rt 012/Rw.004 Ds.Pagintungan Kc.Jawilan Banten**
+Keluhan: **Kelenjar Di Leher**
+Pengobatan Herbal: **Walatra Zedoril -7**
+
+Assalamualaikum,Wr.Wb 2015 Saya pernah oprasi kelenjar tiroid dan 2018 kelenjar di leher saya tumbuh lagi, rasanya sakit baget kalau harus ngalami oprasi lagi, sebelum konsumsi zedoril -7 saya pernah mencoba beberapa obat tapi belum ada perubahan dan saya tidak putus asa berdoa dan berusaha lagi mencari di internet. Ada obat herbal Walatra Zedoril 7 saya langsug memesanya 1 botol. Alhamdulilah meskipun belum ha bis 1 botol sekarang kelenjar di leher saya sudah kempes dan mengecil.
+
+Semoga allah selalu memberikan saya kesembuhan amiin. Terimakasih kepada produk walatra zedoril 7 Semoga tambah maju dan sukses banyak diminati org banyak amiin.,saya bnyak berterimksh berkat produk zedoril 7.
+
