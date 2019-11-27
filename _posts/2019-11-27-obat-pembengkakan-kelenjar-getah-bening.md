@@ -84,6 +84,6 @@ Anda cukup mengirimkan SMS/WA Ke No. 082.320.000.747 dengan mencantumkan kode pr
 
 Atau Anda bisa pijit tombol di bawah Ini untuk memudahkan proses pemesanan:
 
-<a href="" style="background-color: #61ce70; border: 4px solid #61ce70; border-radius: 3px; color: white;">PESAN SEKARANG via WA</a>
+<a href="" style="background-color: #61ce70; border: 4px solid #61ce70; border-radius: 3px; color: white; padding: 10px;">PESAN SEKARANG via WA</a>
 
-<a href="" style="background-color: #ffa500; border: 4px solid #ffa500; border-radius: 3px; color: white;">PESAN SEKARANG via SMS</a>
+<a href="" style="background-color: #ffa500; border: 4px solid #ffa500; border-radius: 3px; color: white; padding: 10px;">PESAN SEKARANG via SMS</a>
