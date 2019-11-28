@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Obat Pembengkakan Kelenjar Getah Bening 100% Herbal
+title: Obat Pembengkakan Kelenjar Getah Bening Zedoril 7 Herbal
+description: Obati segera pembengkakan kelenjar getah bening Anda dengan Zedoril 7. Khasiat terbukti Ampuh, sudah terdaftar di BPOM RI.
 ---
 
 Pembengkakan di kelenjar getah bening termasuk kondisi yang mesti segera Anda atasi dengan pengobatan serius.
